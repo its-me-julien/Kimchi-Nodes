@@ -432,7 +432,7 @@ body::before {
 /* Node grid layout */
 .node-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Default to 3 items on desktops */
+    grid-template-columns: repeat(4, 1fr); /* Default to 3 items on desktops */
     gap: 1rem;
     margin: 0 auto;
 }
