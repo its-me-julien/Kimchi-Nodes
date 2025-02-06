@@ -433,7 +433,7 @@ body::before {
 
 .node-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 cards per row on desktop */
+    grid-template-columns: repeat(2, 1fr); /* 4 cards per row on desktop */
     gap: 1rem;
     margin: 0 auto;
 }
