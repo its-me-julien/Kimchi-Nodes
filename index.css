@@ -95,7 +95,7 @@ body::before {
 
 /* Updated Node Card Styling */
 .node-card img {
-    width: 30%;  /* Let the image fill its container */
+    width: 70%;  /* Let the image fill its container */
     height: auto;
     aspect-ratio: 1 / 1; /* Makes it a square */
     object-fit: cover;   /* Ensures the image covers the container nicely */
@@ -425,7 +425,7 @@ body::before {
 /* Staking section */
 .staking-section {
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 900px;
     padding: 0 1rem;
 }
 
